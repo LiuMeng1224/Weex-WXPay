@@ -28,6 +28,7 @@ wxpay是一个集成android原生微信支付的weex插件，可以通过weexpac
 
 # 已有工程集成
 ## iOS集成插件Wxpay
+github链接：https://github.com/WUBOSS/Weex-WXPay
 - 命令行集成
   ```
   weexpack plugin add wxpay
