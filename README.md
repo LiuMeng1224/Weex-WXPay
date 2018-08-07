@@ -1,5 +1,5 @@
 # wxpay
-wxpay是一个weex插件，可以通过weexpack快速集成，可以丰富weex功能
+wxpay是一个集成android原生微信支付的weex插件，可以通过weexpack快速集成，可以丰富weex功能
 
 支持的weexpack版本： >= 0.2.0
 支持的WeexSDK版本： >= 0.10.0
@@ -61,4 +61,4 @@ wxpay是一个weex插件，可以通过weexpack快速集成，可以丰富weex�
   ```
   wxpay:{$version}'
   ``` 
-  
+  使用方法：可以查看微信支付集成.docx
